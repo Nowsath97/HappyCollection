@@ -6,10 +6,10 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.happycollection.R
-import com.example.happycollection.Utils
+import com.example.happycollection.utils.Utils
 import com.example.happycollection.databinding.AdapterListItemBinding
 import com.example.happycollection.model.Product
-import com.example.happycollection.view.adapter.MainAdapter.*
+import com.example.happycollection.view.adapter.MainAdapter.MainViewHolder
 
 class MainAdapter : RecyclerView.Adapter<MainViewHolder>() {
 

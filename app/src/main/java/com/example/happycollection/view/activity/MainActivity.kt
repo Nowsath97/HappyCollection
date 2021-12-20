@@ -11,7 +11,11 @@ import android.view.ViewGroup
 import android.widget.ProgressBar
 import com.example.happycollection.*
 import com.example.happycollection.databinding.ActivityMainBinding
+import com.example.happycollection.factory.ViewModelFactory
 import com.example.happycollection.repository.MainRepository
+import com.example.happycollection.retrofit.RetrofitService
+import com.example.happycollection.utils.NetworkUtil
+import com.example.happycollection.utils.Utils
 import com.example.happycollection.view.adapter.MainAdapter
 import com.example.happycollection.viewmodel.MainViewModel
 

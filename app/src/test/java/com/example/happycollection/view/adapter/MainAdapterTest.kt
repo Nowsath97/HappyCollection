@@ -2,12 +2,10 @@ package com.example.happycollection.view.adapter
 
 import com.example.happycollection.model.Product
 import com.example.happycollection.model.Rating
-import org.junit.AfterClass
 import org.junit.Before
-import org.junit.BeforeClass
 import org.junit.Test
-import org.junit.jupiter.api.Assertions.*
-import java.lang.Exception
+import org.junit.jupiter.api.Assertions.assertEquals
+import org.junit.jupiter.api.Assertions.assertNotEquals
 
 class MainAdapterTest {
     private val mMainAdapter: MainAdapter = MainAdapter()

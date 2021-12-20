@@ -1,4 +1,4 @@
-package com.example.happycollection
+package com.example.happycollection.utils
 
 import android.graphics.Color
 import android.view.View

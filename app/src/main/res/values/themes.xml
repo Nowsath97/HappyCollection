@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.HappyCollection" parent="Theme.MaterialComponents.Light">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#94F490</item>
-        <item name="colorPrimaryVariant">#01CC0B</item>
+        <item name="colorPrimary">@color/light_green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
